@@ -22,7 +22,7 @@ public class ESSAY2 {
           //sistem setiap angka yang diinput ke dalam array
           
           for(i = 0; i < arr_count; i++){
-              arr[i] = input.nextInt(); //next nya memakai Int buka Double
+              arr[i] = input.nextInt(); //next nya memakai Int bukan Double
     }
           
           System.out.println();
